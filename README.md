@@ -99,6 +99,6 @@ Holidays are a national mater not supported by the [GregorianCalendar](https://d
 **SO THAT** I can tell my colleagues in advance  
 
 **Scenario: Easter month**  
-**GIVEN** month with easter  
+**GIVEN** month with easter: April 2023
 **WHEN** asking for all holidays  
-**THEN** return Danish national holidays (Maundy thursday, Good Friday, Easter Sunday & Easter Monday)  
+**THEN** return Danish national holidays: Maundy thursday, Good Friday, Easter Sunday & Easter Monday)  
