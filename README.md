@@ -1,5 +1,9 @@
 # Tech Chapter apprentice coding challenge
 
+## _INTERNS NOTICE!_
+Internship challenge has moved to https://github.com/techchapter/interns-challenge.
+This challenge is intended for applicatns for apprentenships only.
+
 #### _Read this before you start!_
 _At Tech Chapter we receive a lot of applications for apprenticeship from allover the country. Allthough we are very excited about this, we have limited capacity in interviewing all applicants. Because of this we have decided to present all applicants with a coding challenge that will help os give a better insight in your current coding skills and to give all application similar conditions in our assessment._
 
@@ -16,7 +20,7 @@ _Happy coding ;-)_
 In this repository you will find three tasks:
   1. Mario's Pizza
   2. Input validation
-  3. Holiday Calendar
+  3. Holiday Calendar (difficult)
 
 Common for all tasks you will find a number of Interface files within the `src/`-folder along with some stub Class implementations of the Interfaces. In the `tests/`-folder you will find some [NUnit](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit) test cases defined for the class implementations. Since the classes are currently stubbed the test cases will fail. Your job will be to change the class implementation to make the unittest cases pass. Once the testcase passes, the task is completed in accordence with [TDD](https://en.wikipedia.org/wiki/Test-driven_development#:~:text=Test%2Ddriven%20development%20(TDD),software%20against%20all%20test%20cases.) principles.
 **Note:** you should NOT do any changes to the Interface files or the test case files, but you may change or add any class implementation as you see fit.
